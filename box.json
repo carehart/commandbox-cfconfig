@@ -1,6 +1,6 @@
 {
     "name":"CFConfig CLI",
-    "version":"2.1.1",
+    "version":"2.2.0",
     "author":"Brad Wood",
     "location":"ForgeboxStorage",
     "homepage":"https://github.com/Ortus-Solutions/commandbox-cfconfig",
@@ -25,7 +25,7 @@
     "installPaths":{
         "cfconfig-services":"modules\\cfconfig-services"
     },
-    "executables" :{
-        "cfconfig" : "cfconfig"
+    "executables":{
+        "cfconfig":"cfconfig"
     }
 }
