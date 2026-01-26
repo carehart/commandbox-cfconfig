@@ -24,5 +24,8 @@
     },
     "installPaths":{
         "cfconfig-services":"modules\\cfconfig-services"
+    },
+    "executables" :{
+        "cfconfig" : "cfconfig"
     }
 }
